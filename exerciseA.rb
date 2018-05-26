@@ -57,8 +57,7 @@ a.show()
 
 
 
-#I am not clear about pseudo variable and boolean values
-
+#I am not clear about pseudo variable and boolean values and i dont give a fuck
 
 
 
